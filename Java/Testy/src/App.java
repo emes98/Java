@@ -24,6 +24,13 @@ public class App {
 
         d1.tellMeIfHungry();
 
+        Tv lg = new Tv(40, "silver", "lg-500");
+
+        lg.getInformation();
+
+        Cat cat1 = new Cat();
+        cat1.speak();
+
     }
 
 }
