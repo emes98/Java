@@ -29,6 +29,7 @@ public class App {
         lg.getInformation();
 
         Cat cat1 = new Cat();
+
         cat1.speak();
 
     }
